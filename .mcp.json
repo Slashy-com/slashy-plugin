@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "slashy": {
+      "type": "http",
+      "url": "https://slashy.ctrlcenter.ai/mcp"
+    }
+  }
+}

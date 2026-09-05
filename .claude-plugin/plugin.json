@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "slashy",
+  "displayName": "Slashy",
+  "version": "1.0.0",
+  "description": "Operate Gmail and Google Calendar through Slashy with guided inbox, follow-up, meeting, relationship, and automation workflows.",
+  "author": {
+    "name": "Slashy",
+    "url": "https://www.slashy.com"
+  },
+  "homepage": "https://help.slashy.com/features/integrations/mcp",
+  "keywords": [
+    "email",
+    "gmail",
+    "calendar",
+    "follow-up",
+    "productivity"
+  ],
+  "defaultEnabled": false
+}
