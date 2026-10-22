@@ -1,6 +1,6 @@
 ---
 name: reply-follow-up-sweep
-description: Separate Gmail conversations waiting on the user from conversations awaiting someone else, then prepare grounded drafts. Use for reply sweeps, follow-up sweeps, unanswered mail, and closing open loops.
+description: Separate Gmail or Outlook conversations waiting on the user from conversations awaiting someone else, then prepare grounded drafts. Use for reply sweeps, follow-up sweeps, unanswered mail, and closing open loops.
 ---
 
 # Reply & Follow-up Sweep

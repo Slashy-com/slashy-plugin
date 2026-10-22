@@ -1,6 +1,6 @@
 ---
 name: welcome-to-slashy
-description: Orient a newly connected Slashy user and verify their Gmail, Google Calendar, and timezone without modifying data. Use for onboarding, capability questions, or first-run setup.
+description: Orient a newly connected Slashy user and verify their Gmail or Outlook mail, Google or Outlook Calendar, and timezone without modifying data. Use for onboarding, capability questions, or first-run setup.
 ---
 
 # Welcome to Slashy

@@ -1,6 +1,6 @@
 # Slashy plugin
 
-Use Slashy from Claude to search and act on Gmail and Google Calendar. The plugin connects Claude to Slashy's hosted MCP server and adds guided workflows for inbox briefings, reply and follow-up sweeps, meeting preparation, relationship context, and automations.
+Use Slashy from Claude to search and act on Gmail or Outlook mail and Google or Outlook Calendar. The plugin connects Claude to Slashy's hosted MCP server and adds guided workflows for inbox briefings, reply and follow-up sweeps, meeting preparation, relationship context, and automations.
 
 ## Connect
 
