@@ -1,6 +1,6 @@
 # Slashy plugin
 
-Use Slashy from Claude to search and act on Gmail and Google Calendar. The plugin connects Claude to Slashy's hosted MCP server and adds guided workflows for inbox briefings, reply and follow-up sweeps, meeting preparation, relationship context, and automations.
+Use Slashy from Claude to search and act on Gmail or Outlook mail and Google or Outlook Calendar. The plugin connects Claude to Slashy's hosted MCP server and adds guided workflows for inbox briefings, reply and follow-up sweeps, meeting preparation, relationship context, and automations.
 
 ## Connect
 
@@ -8,12 +8,26 @@ Enable the plugin, open Claude's MCP or connector interface, and authorize the `
 
 ## Included workflows
 
+- Slashy Email (general MCP tool guidance)
 - Welcome to Slashy
 - Inbox Briefing
 - Reply & Follow-up Sweep
 - Meeting-to-Email
 - Relationship Brief
 - Inbox Automation Builder
+
+## Install the skills separately
+
+The skills are also available to agents that support the open `SKILL.md` format:
+
+```sh
+npx skills add Slashy-com/slashy-plugin --skill '*'
+```
+
+Install the `slashy-email` skill alone with `--skill slashy-email`. The skills
+guide the agent; they do not authorize an account by themselves. Connect the
+Slashy MCP server at `https://slashy.ctrlcenter.ai/mcp` in your agent's MCP
+settings, then complete the OAuth flow before using them.
 
 ## Safety
 

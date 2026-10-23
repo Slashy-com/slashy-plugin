@@ -2,8 +2,8 @@
   "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
   "name": "slashy",
   "displayName": "Slashy",
-  "version": "1.0.0",
-  "description": "Operate Gmail and Google Calendar through Slashy with guided inbox, follow-up, meeting, relationship, and automation workflows.",
+  "version": "1.0.1",
+  "description": "Operate Gmail or Outlook mail and Google or Outlook Calendar through Slashy with guided inbox, follow-up, meeting, relationship, and automation workflows.",
   "author": {
     "name": "Slashy",
     "url": "https://www.slashy.com"
@@ -12,6 +12,7 @@
   "keywords": [
     "email",
     "gmail",
+    "outlook",
     "calendar",
     "follow-up",
     "productivity"

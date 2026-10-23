@@ -5,7 +5,7 @@ description: Connect and verify a Slashy account after installing the Slashy plu
 
 # Set up Slashy
 
-Slashy connects to the user's Gmail and Google Calendar through OAuth. Never ask the user to paste an access token, Google password, recovery code, or other secret into the conversation.
+Slashy connects to the user's Gmail or Outlook mail and Google or Outlook Calendar through OAuth. Never ask the user to paste an access token, account password, recovery code, or other secret into the conversation.
 
 1. Check whether the `slashy` MCP server is connected.
 2. If authorization is required, direct the user to the host's MCP or connector interface and let the host open Slashy's OAuth flow.

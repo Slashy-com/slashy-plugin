@@ -1,6 +1,6 @@
 ---
 name: inbox-briefing
-description: Build a concise Slashy briefing from the user's important Gmail threads and Google Calendar. Use for morning briefings, daily planning, inbox overviews, and priority summaries.
+description: Build a concise Slashy briefing from the user's important Gmail or Outlook threads and Google or Outlook Calendar. Use for morning briefings, daily planning, inbox overviews, and priority summaries.
 ---
 
 # Inbox Briefing
